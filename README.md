@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting a job in coding, whether it be as a Web Developer, React Developer, or something that is in one of my fields.
       I'm also interested in video editing, video/computer games, and dogs!!!
 - 🌱 I’m currently learning JavaScript, React, and Ruby
-- 💞️ I’m currently working on (re)learning the coding syntax, so I can't collaborate on anything quite yet (sorry!)
+<!-- - 💞️ I’m currently working on (re)learning the coding syntax, so I can't collaborate on anything quite yet (sorry!) -->
 - 📫 You can reach me at my email, phillips.matthew829@gmail.com
 
 <!---
