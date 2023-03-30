@@ -2,8 +2,8 @@
 - 👀 I’m interested in getting a job in coding, whether it be as a Web Developer, React Developer, or something that is in one of my fields.
       I'm also interested in video editing, video/computer games, and dogs!!!
 - 🌱 I’m currently learning JavaScript, React, and Ruby
-<!-- - 💞️ I’m currently working on (re)learning the coding syntax, so I can't collaborate on anything quite yet (sorry!) -->
-- 📫 You can reach me at my email, phillips.matthew829@gmail.com
+- 😄 I graduated from Flatiron's Software Engineering course in February 2023!
+- 📫 You can reach me at my email, phillips.matthew829@gmail.com, or one of my social media profiles I have listed.
 
 <!---
 SoraEagle/SoraEagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
