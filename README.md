@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SoraEagle, an aspiring coder (aka I like solving puzzles)
+- 👋 Hi, I’m @SoraEagle, an aspiring coder (aka I like learning new code)
 - 👀 I’m interested in getting a job in coding, whether it be as a Web Developer, React Developer, or something that is in one of my fields.
-      I'm also interested in video editing, video/computer games, and dogs!!!
-- 🌱 I’m currently learning JavaScript, React, and Ruby
+      I'm also interested in video editing, graphic design, video/computer games, and dogs!!!
+- 🌱 I’m currently learning JavaScript, React, and Ruby on Rails
 - 😄 I graduated from Flatiron's Software Engineering course in February 2023!
 - 📫 You can reach me at my email, phillips.matthew829@gmail.com, or one of my social media profiles I have listed.
 
